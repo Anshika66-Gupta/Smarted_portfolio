@@ -1,0 +1,3 @@
+username: techyanshika01_db_user
+password: GSIRCQFAcPp3dmWt
+mongodb+srv://techyanshika01_db_user:GSIRCQFAcPp3dmWt@cluster-smarted.livmqej.mongodb.net/
